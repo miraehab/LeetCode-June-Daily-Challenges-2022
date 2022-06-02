@@ -4,3 +4,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 
 ## Solutions
 1. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1480.%20Running%20Sum%20of%201d%20Array.cpp">Running Sum of 1d Array</a>
+2. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/867.%20Transpose%20Matrix.cpp">Transpose Matrix</a>
