@@ -8,3 +8,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 3. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/304.%20Range%20Sum%20Query%202D%20-%20Immutable.cpp">Range Sum Query 2D - Immutable</a>
 4. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/N-Queens.cpp">N-Queens</a>
 5. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/52.%20N-Queens%20II.cpp">N-Queens II</a>
+6. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/160.%20Intersection%20of%20Two%20Linked%20Lists.cpp">Intersection of Two Linked Lists</a>
