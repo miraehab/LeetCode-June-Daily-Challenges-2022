@@ -10,3 +10,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 5. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/52.%20N-Queens%20II.cpp">N-Queens II</a>
 6. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/160.%20Intersection%20of%20Two%20Linked%20Lists.cpp">Intersection of Two Linked Lists</a>
 7. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/88.%20Merge%20Sorted%20Array.cpp">Merge Sorted Array</a>
+8. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1332.%20Remove%20Palindromic%20Subsequences.cpp">Remove Palindromic Subsequences</a>
