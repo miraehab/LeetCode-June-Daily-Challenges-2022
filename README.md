@@ -13,3 +13,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 8. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1332.%20Remove%20Palindromic%20Subsequences.cpp">Remove Palindromic Subsequences</a>
 9. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp">Two Sum II - Input Array Is Sorted</a>
 10. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp">Longest Substring Without Repeating Characters</a>
+11. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp">Minimum Operations to Reduce X to Zero</a>
