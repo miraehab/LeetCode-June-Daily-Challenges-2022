@@ -15,3 +15,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 10. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp">Longest Substring Without Repeating Characters</a>
 11. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp">Minimum Operations to Reduce X to Zero</a>
 12. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1695.%20Maximum%20Erasure%20Value.cpp">Maximum Erasure Value</a>
+13. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/120.%20Triangle.cpp">Triangle</a>
