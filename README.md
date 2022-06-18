@@ -18,3 +18,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 13. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/120.%20Triangle.cpp">Triangle</a>
 14. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/583.%20Delete%20Operation%20for%20Two%20Strings.cpp">Delete Operation for Two Strings</a>
 15. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1048.%20Longest%20String%20Chain.cpp">Longest String Chain</a>
+16. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/5.%20Longest%20Palindromic%20Substring.cpp">Longest Palindromic Substring</a>
