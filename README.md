@@ -19,4 +19,6 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 14. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/583.%20Delete%20Operation%20for%20Two%20Strings.cpp">Delete Operation for Two Strings</a>
 15. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1048.%20Longest%20String%20Chain.cpp">Longest String Chain</a>
 16. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/5.%20Longest%20Palindromic%20Substring.cpp">Longest Palindromic Substring</a>
-17. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/745.%20Prefix%20and%20Suffix%20Search.cpp">Prefix and Suffix Search</a>
+17. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/968.%20Binary%20Tree%20Cameras.cpp">Binary Tree Cameras</a>
+18. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/745.%20Prefix%20and%20Suffix%20Search.cpp">Prefix and Suffix Search</a>
+19. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1268.%20Search%20Suggestions%20System.cpp">Search Suggestions System</a>
