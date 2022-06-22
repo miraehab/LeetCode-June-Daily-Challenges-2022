@@ -23,3 +23,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 18. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/745.%20Prefix%20and%20Suffix%20Search.cpp">Prefix and Suffix Search</a>
 19. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1268.%20Search%20Suggestions%20System.cpp">Search Suggestions System</a>
 20. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/820.%20Short%20Encoding%20of%20Words.cpp">Short Encoding of Words</a>
+21. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1642.%20Furthest%20Building%20You%20Can%20Reach.cpp">Furthest Building You Can Reach</a>
