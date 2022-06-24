@@ -26,3 +26,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 21. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1642.%20Furthest%20Building%20You%20Can%20Reach.cpp">Furthest Building You Can Reach</a>
 22. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp">Kth Largest Element in an Array</a>
 23. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/630.%20Course%20Schedule%20III.cpp">Course Schedule III</a>
+24. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.cpp">Construct Target Array With Multiple Sums</a>
