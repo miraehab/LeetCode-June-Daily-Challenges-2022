@@ -29,3 +29,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of June i
 24. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.cpp">Construct Target Array With Multiple Sums</a>
 25. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/665.%20Non-decreasing%20Array.cpp">Non-decreasing Array</a>
 26. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.cpp">Maximum Points You Can Obtain from Cards</a>
+27. <a href="https://github.com/miraehab/LeetCode-June-Daily-Challenges-2022-/blob/main/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp">Partitioning Into Minimum Number Of Deci-Binary Numbers</a>
